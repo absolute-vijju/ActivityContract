@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">ActivityContract</string>
+    <string name="take_picture">Take Picture</string>
+    <string name="record_video">Record Video</string>
+    <string name="select_image">Select Image</string>
+    <string name="select_video">Select Video</string>
+    <string name="selected_captured_image">[ Selected/Captured image ]</string>
+    <string name="selected_captured_video">[ Selected/Captured video ]</string>
+    <string name="choose_from_gallery">Choose from gallery</string>
+    <string name="cancel">Cancel</string>
+    <string name="choose_from">Choose from</string>
+    <string name="select_one">Select one</string>
+</resources>
